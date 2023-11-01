@@ -170,20 +170,12 @@ In conclusion, this repository covers the development of models, performance eva
 
 ## References
 
-[1] [Comparative Study on Classic Machine Learning Algorithms](https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222).
 
-[2] [Combination of Naive Bayes Classifier and K-Nearest Neighbor (cNK) in the Classification-Based Predictive Models](https://www.researchgate.net/publication/289846895_Combination_of_Naive_Bayes_Classifier_and_K-Nearest_Neighbor_cNK_in_the_Classification_Based_Predictive_Models).
+[1] [Keras Recurrent Layers Documentation](https://keras.io/api/layers/recurrent_layers/).
 
-[3] [Keras Recurrent Layers Documentation](https://keras.io/api/layers/recurrent_layers/).
+[2] [How to Develop RNN Models for Human Activity Recognition](https://machinelearningmastery.com/how-to-develop-rnn-models-for-human-activity-recognition-time-series-classification/).
 
-[4] [How to Develop RNN Models for Human Activity Recognition](https://machinelearningmastery.com/how-to-develop-rnn-models-for-human-activity-recognition-time-series-classification/).
+[3] [An Introduction to Recurrent Neural Networks and the Math that Powers Them](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/).
 
-[5] [An Introduction to Recurrent Neural Networks and the Math that Powers Them](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/).
+[4] [Recall, Precision, F1, ROC, AUC, and Everything in Machine Learning](https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9).
 
-[6] [Recall, Precision, F1, ROC, AUC, and Everything in Machine Learning](https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9).
-
-[7] [Wasserstein GAN - ArXiv, 1701.07875](https://arxiv.org/abs/1701.07875).
-
-[8] [Conditional Generative Adversarial Nets - ArXiv, 1411.1784](https://arxiv.org/abs/1411.1784).
-
-[9] [Generative Adversarial Nets - Neural Information Processing Systems (NIPS)](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf).
